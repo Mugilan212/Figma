@@ -293,7 +293,7 @@ color: #FCFCF4;
 ```
 ## OUTPUT:
 
-![WEB EX 9](https://github.com/Mugilan212/Figma/assets/144508901/4ac76a20-6221-4083-82b1-517566ae6320)
+![web ex 9](https://github.com/Mugilan212/Figma/assets/144508901/ada0aae6-abfc-461b-ae38-786c94d7a39c)
 
 
 ## RESULT:
