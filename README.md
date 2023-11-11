@@ -1,4 +1,4 @@
-# Ex09 Event Registration Web Application
+# Ex-09 Event Registration Web Application
 ## Date: 07/11/2023
 
 ## AIM:
@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```css
 
 /* Home page */
 
@@ -42,7 +43,6 @@ height: 1400px;
 
 background: #D8C4B2;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
 
 /* saveetha logo 1 */
 
@@ -54,7 +54,6 @@ top: 282px;
 
 background: url(saveetha logo.jpg);
 
-
 /* WEB_LOGO-01 2 */
 
 position: absolute;
@@ -64,7 +63,6 @@ left: 40px;
 top: 32px;
 
 background: url(WEB_LOGO-01.png);
-
 
 /* AFFILIATED TO ANNA UNIVERSITY */
 
@@ -82,8 +80,6 @@ line-height: 54px;
 
 color: #FCFCF4;
 
-
-
 /* NIRF RANKED AUTONOMOUS INSTITUTION */
 
 position: absolute;
@@ -100,8 +96,6 @@ line-height: 54px;
 
 color: #FCFCF4;
 
-
-
 /* Rectangle 2 */
 
 position: absolute;
@@ -111,7 +105,6 @@ left: 186px;
 top: 1085.5px;
 
 background: rgba(0, 0, 0, 0.25);
-
 
 /* LOGIN */
 
@@ -137,7 +130,6 @@ height: 1400px;
 
 background: #D8C4B2;
 
-
 /* WEB_LOGO-01 1 */
 
 position: absolute;
@@ -148,7 +140,6 @@ top: 31px;
 
 background: url(WEB_LOGO-01.png);
 
-
 /* saveetha logo 2 */
 
 position: absolute;
@@ -158,7 +149,6 @@ left: 298px;
 top: 279px;
 
 background: url(saveetha logo.jpg);
-
 
 /* USERNAME */
 
@@ -176,8 +166,6 @@ line-height: 54px;
 
 color: #FCFCF4;
 
-
-
 /* Rectangle 3 */
 
 position: absolute;
@@ -187,7 +175,6 @@ left: 166px;
 top: 749px;
 
 background: rgba(0, 0, 0, 0.25);
-
 
 /* PASSWORD */
 
@@ -205,8 +192,6 @@ line-height: 54px;
 
 color: #FCFCF4;
 
-
-
 /* Rectangle 4 */
 
 position: absolute;
@@ -217,7 +202,6 @@ top: 946px;
 
 background: rgba(0, 0, 0, 0.25);
 
-
 /* Rectangle 5 */
 
 position: absolute;
@@ -227,7 +211,6 @@ left: 87px;
 top: 1143px;
 
 background: rgba(0, 0, 0, 0.25);
-
 
 /* SUBMIT */
 
@@ -254,7 +237,6 @@ height: 1400px;
 
 background: #D8C4B2;
 
-
 /* WEB_LOGO-01 3 */
 
 position: absolute;
@@ -265,7 +247,6 @@ top: 28px;
 
 background: url(WEB_LOGO-01.png);
 
-
 /* saveetha logo 3 */
 
 position: absolute;
@@ -275,7 +256,6 @@ left: 298px;
 top: 286px;
 
 background: url(saveetha logo.jpg);
-
 
 /* DEPARTMENTS */
 
@@ -294,8 +274,6 @@ line-height: 67px;
 
 color: #FCFCF4;
 
-
-
 /* CSE IT AIDS AIML */
 
 position: absolute;
@@ -312,6 +290,7 @@ line-height: 67px;
 
 color: #FCFCF4;
 
+```
 ## OUTPUT:
 
 ![WEB EX 9](https://github.com/Mugilan212/Figma/assets/144508901/4ac76a20-6221-4083-82b1-517566ae6320)
